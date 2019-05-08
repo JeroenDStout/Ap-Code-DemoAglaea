@@ -75,7 +75,7 @@
     </ClCompile>
     <PreBuildEvent />
     <Link>
-      <AdditionalDependencies>Black Root.lib;Toolbox Base.lib;Conduits.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>Black Root.lib;Toolbox Base.lib;Conduits.lib;Aglaea.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <LinkTimeCodeGeneration>Default</LinkTimeCodeGeneration>
     </Link>
     <ProjectReference>
@@ -97,7 +97,7 @@
     </ClCompile>
     <PreBuildEvent />
     <Link>
-      <AdditionalDependencies>Black Root.lib;Toolbox Base.lib;Conduits.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>Black Root.lib;Toolbox Base.lib;Conduits.lib;Aglaea.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <LinkTimeCodeGeneration>Default</LinkTimeCodeGeneration>
     </Link>
     <ProjectReference>
@@ -122,7 +122,7 @@
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
-      <AdditionalDependencies>Black Root.lib;Toolbox Base.lib;Conduits.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>Black Root.lib;Toolbox Base.lib;Conduits.lib;Aglaea.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <PreBuildEvent />
     <ProjectReference>
@@ -147,7 +147,7 @@
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
-      <AdditionalDependencies>Black Root.lib;Toolbox Base.lib;Conduits.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>Black Root.lib;Toolbox Base.lib;Conduits.lib;Aglaea.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <PreBuildEvent />
     <ProjectReference>
