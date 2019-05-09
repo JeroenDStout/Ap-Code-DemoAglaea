@@ -11,6 +11,9 @@
     <Filter Include="Meta">
       <UniqueIdentifier>{b6764f48-b059-4c2e-8e7f-af85b661fdc5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Demo">
+      <UniqueIdentifier>{fcbec914-b264-457c-97c2-df2bbfda815f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="../Pubc/Entry.cpp">
@@ -21,6 +24,9 @@
     </ClCompile>
     <ClCompile Include="..\Pubc\Environment.cpp">
       <Filter>Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Pubc\Demo Disk Read.cpp">
+      <Filter>Demo</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -35,6 +41,9 @@
     </ClInclude>
     <ClInclude Include="..\Pubc\Environment.h">
       <Filter>Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Pubc\Demo Disk Read.h">
+      <Filter>Demo</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
