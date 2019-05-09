@@ -9,4 +9,5 @@
 #include "BlackRoot/Pubc/Register.h"
 #include "ToolboxBase/Pubc/Register.h"
 #include "Conduits/Pubc/Register.h"
+#include "IrisWidget/Pubc/Register.h"
 #include "Aglaea/Pubc/Register.h"
